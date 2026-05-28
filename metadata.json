@@ -1,0 +1,6 @@
+{
+  "name": "Nirmanmitra",
+  "description": "A clean and elegant portfolio, interactive estimator, and AI-powered project consultation workspace for Nirmanmitra Construction, showcasing high-value projects in Telangana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
